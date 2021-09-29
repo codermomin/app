@@ -1,0 +1,589 @@
+@media screen and (max-width:1300px) {
+    .primary-menu ul li a {
+        padding: 0 15px;
+    }
+    .header-section .container{
+        width: 95%;
+    }
+    .banner-section .container{
+        width: 100%;
+    }
+    .banner-bottom .container{
+        width: 95%;
+    }
+    .content-part h2 {
+        font-size: 40px;
+    }
+    .content-part p {
+        font-size: 18px;
+        line-height: 1.7;
+    }
+    .service-section .container{
+        width: 100%;
+    }
+    .service-box:first-child {
+        margin-left: 2%;
+    }
+    .service-box {
+        margin-right: 1%;
+
+    }  
+    .service-box:nth-child(4){
+        margin-left: 2%;
+    } 
+    .pricing-t .container{
+        width: 100%;
+    } 
+    .table-items {
+        width: 32%;
+        margin-right: 2%;
+    }
+    .team-section .container{
+        width: 100%;
+    }
+    .team-item {
+        width: 23.5%;
+        margin-right: 1%;
+    }
+    .team-item:first-child {
+        margin-left: 1.5%;
+    }
+    .n-latter-s .container{
+        width: 100%;
+    }
+    .r-part .container{
+        width: 95%;
+    }
+    .testimonial-section .container{
+        width: 100%;
+    }
+    .testi-item {
+        width: 31%;
+        margin-right: 1.5%;
+    }
+    .testi-item:last-child{
+        margin-right: 0;
+    }
+    .testi-item:first-child{
+        margin-left: 2%;
+    }
+    .contact-section .container{
+        width: 95%;
+    }
+    .ftr{
+        width: 100%;
+        margin: auto;
+    }
+}
+
+
+@media screen and (max-width:1050px) {
+    .header-button {
+        width: 15%;
+    }
+    .header-menu {
+        width: 55%;
+    }
+    .header-logo {
+        width: 30%;
+    }
+    .banner-content h2 {
+        font-size: 45px;
+    }
+    .default-btn {
+        padding: 16px 38px;
+        font-size: 18px;
+    }
+    .s-icon {
+        height: 124px;
+    }
+    .s-content h2 {
+        font-size: 20px;
+    }
+    .service-box {
+        padding: 50px 24px;
+    }
+}
+@media screen and (max-width:1002px) {
+    .primary-menu ul li a {
+        padding: 0 14px;
+    }
+}
+@media screen and (max-width:992px) {
+    .header-menu ul{
+        width: 25%;
+        display: none;
+    }
+    .header-button {
+        width: 25%;
+        float: right;
+        margin-right: 10px;
+    }
+
+    .logo img {
+        width: 45px;
+        float: left;
+        margin-left: 20px;
+    }
+    .logo span {
+        display: inline-block;
+        margin-top: 14px;
+        margin-left: 12px;
+        font-size: 18px;
+        font-weight: 500;
+    }
+    .mobile-menu{
+        display: block;
+    }
+  
+    .header-logo {
+        width: 50%;
+        padding: 15px 0;
+    }
+    .header-button {
+        display: none;
+    }
+    .header-menu {
+        width: 97%;
+        margin-top: 20px;
+    }
+    .banner-section {
+        margin-top: 0px;
+    }
+    .header-section .container {
+        width: 98%;
+    }
+    .header-section {
+        position: relative;
+    }
+    .content-part {
+        width: 100%;
+    }
+    .video-part {
+        width: 100%;
+    }
+    .content-part h2 {
+        text-align: center;
+        margin-top: 15px;
+    }
+    .content-part p {
+        font-size: 18px;
+        text-align: justify;
+    }
+    .service-section {
+        padding: 0;
+    }
+    .services-items {
+        margin-top: 60px;
+    }
+    .service-box {
+        width: 48%;
+    }
+    .service-box:first-child {
+        margin-left: 1.5%;
+    }
+    .service-box:nth-child(3),
+    .service-box:nth-child(5){
+        margin-left: 1.5%;
+    }
+    .service-box:nth-child(4) {
+        margin-left: 1%;
+    }
+    .service-content h2 {
+        font-size: 50px;
+        margin-bottom: 35px;
+    }
+    .t-heading h3 {
+        font-size: 20px;
+        margin-bottom: 30px;
+    }
+    .t-heading h1 {
+        font-size: 50px;
+    }
+    .t-heading p {
+        font-size: 20px;
+    }
+    .t-content ul li {
+        font-size: 20px;
+        margin: 35px 0;
+    }
+    .default-btn {
+        padding: 15px 28px;
+        font-size: 18px;
+        font-weight: 500;
+    }
+    .service-content h2 {
+        font-size: 40px;
+        margin-bottom: 40px;
+    }
+    .team-item {
+        width: 48%;
+        margin-right: 1%;
+    }
+    .team-item:nth-child(3){
+        margin-left: 1.5%;
+    }
+    .team-item h4 {
+        margin-top: 20px;     
+    }
+    .team-item img {
+        margin-top: 15px;
+    }
+    .team-item h4 {
+        margin-top: 10px;
+    }
+    .t-d {
+        width: 30%;
+        margin-top: -77px;
+        margin-right: 30px;
+    }
+    .testi-item p::after {
+        top: 325px;
+    }
+    .t-d {
+        width: 70%;
+        margin-top: -77px;
+        margin-right: -49px;
+    }
+	
+}
+
+@media screen and (max-width: 800px){
+	.t-heading {
+	padding: 10px;
+}
+.t-heading h3 {
+	font-size: 15px;
+}
+.t-heading h1 {
+	font-size: 30px;
+}
+.t-heading h4 {
+	font-size: 18px;
+	margin-bottom: 24px;
+}
+.t-heading p {
+	font-size: 18px;
+}
+.default-btn {
+	padding: 15px 20px;
+	font-size: 14px;
+
+}
+.t-content ul li {
+	font-size: 16px;
+
+}
+.t-content ul li span {
+	font-size: 16px;
+	color: #6278DF;
+}
+.t-btn {
+	padding: 25px;
+}
+}
+@media screen and (max-width:768px) {
+
+   
+    .content-part h2 {
+        font-size: 35px;
+    }
+    .video-part {
+        margin-bottom: 25px;
+    }
+    .service-section .container{
+        width: 95%;
+    }
+    .service-content h1 {
+        font-size: 40px;
+        margin-bottom: 30px;
+        color: #000000;
+    }
+
+    .report-h h2 {
+        width: 100%;
+        text-align: center;
+    }
+    .report-h p {
+        width: 100%;
+    }
+    .lp {
+        width: 100%;
+    }
+    .rp {
+        width: 100%;
+        margin-top: 25px;
+    }
+    .rp img {
+        float: right;
+    }
+    .testimonial-section {
+        padding: 25px 0;
+    }
+    .service-content h2 {
+        font-size: 35px;
+        margin-bottom: 40px;
+    }
+    .testimonial-section .container {
+        width: 90%;
+    }
+    .testi-item {
+        width: 100%;
+    }
+    .testi-item {
+        margin-right: 0;
+    }
+    .testi-item:first-child{
+        margin-left: 0;
+    }
+    .t-d {
+        width: 50%;
+        margin-top: 0px;
+        margin-right: 15px;
+    }
+    .td-img{
+        width: 48%;
+    }
+    .t-d {
+        width: 48%;
+    }
+    .td-img img {
+        width: 80px;
+        border-radius: 50%;
+        width: 48%;
+        float: right;
+    }
+    .testi-item p::after {
+        top: 202px;
+    }
+    .testi-item p{
+        box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.1);
+    }
+    .t-d {
+        width: 50%;
+        margin-top: 40px;
+        margin-right: 1px;
+    }
+    .t-photo {
+        padding: 38px;
+        margin-top: -54px;
+    }
+    
+    .location-part {
+        width: 100%;
+    }
+    .contact-section {
+        padding: 50px 0;
+    }
+    .contact-form {
+        width: 100%;
+    }
+    .contact-form h3 {
+        font-size: 30px;
+        text-align: center;
+    }
+    .table-items {
+        width: 100%;
+        margin-right: 0;
+    }
+    .t-heading {
+        text-align: center;
+    }
+    .t-content {
+        margin: 40px 0;
+        text-align: center;
+    }
+    .table-items {
+        margin-bottom: 20px;
+    }
+    .pricing-t .container {
+        width: 70%;
+    }
+}
+
+@media screen and (max-width:576px) {
+    .service-box {
+        width: 100%;
+    }
+    .service-box:first-child{
+        margin: 0;
+    }
+    .service-box:nth-child(3), .service-box:nth-child(5),
+    .service-box:nth-child(4){
+        margin-left: 0;
+    }
+    .service-section .container {
+        width: 85%;
+    }
+    .service-content h1 {
+        font-size: 30px;
+    }
+    .pricing-t .container {
+        width: 90%;
+    }
+    .service-content h2 {
+        font-size: 30px;
+    }
+    .tbl p {
+        font-size: 20px;
+    }
+    .testi-item p::after {
+        top: 230px;
+    }
+    .lp img{
+       float: none;
+        width: 100%;
+    }
+    .rp img {
+        float: none;
+        width: 100%;
+    }
+    .content {
+        float: none;
+        width: 100%;
+        margin-top: 35px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    .content:last-child{
+        margin-bottom: 10px;
+    }
+    .table-h {
+        padding: 0;
+    }
+}
+
+@media screen and (max-width:450px){
+    .header-logo {
+        width: 65%;
+    }
+    .logo img {
+        width: 44px;
+    }
+    .logo span {
+        display: inline-block;
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .header-button {
+        width: 33%;
+        margin-right: 7px;
+    }
+   
+    .banner-content h2 {
+        font-size: 35px;
+        margin-top: 25px;
+        margin-bottom: 55px;
+    }
+    .default-btn {
+        padding: 16px 20px;
+        font-size: 16px;
+    }
+    .banner-bottom {
+        padding: 64px 0;
+    }
+    .content-part h2 {
+        font-size: 25px;
+    }
+    .banner-bottom .container {
+        width: 86%;
+    }
+
+    .pricing-t .container {
+        width: 100%;
+    }
+
+    .service-content h2 {
+        font-size: 25px;
+    }
+    .team-section .container {
+        width: 95%;
+    }
+    .service-content h2 {
+        font-size: 20px;
+    }
+    .team-item {
+        width: 100%;
+        margin-right: 0;
+    }
+    .team-item:first-child{
+        margin-left: 0;
+    }
+    .team-item:nth-child(3){
+        margin-left: 0;
+    }
+    .team-item h3 {
+        text-align: center;
+    }
+    .team-item h4 {
+        text-align: center;
+    }
+    .nl-part input[type="email"] {
+        margin-bottom: 42px;
+    }
+    .report-h h2 {
+        font-size: 35px;
+        margin-bottom: 30px;
+    }
+    .report-h p {
+        width: 95%;
+    }
+    .r-part {
+        padding: 50px 0;
+    }
+    .testi-item p::after {
+        top: 270px;
+    }
+    .t-d {
+        margin-top: 9px;
+        margin-right: -14px;
+    }
+    .contact-form p {
+        text-align: center;
+    }
+    .contact-section .container {
+        width: 100%;
+    }
+    .form .w-100 {
+        padding: 18px 18px;
+    }
+    .form .w-50 {
+        padding: 18px 18px;
+    }
+    .ftr {
+        font-size: 18px;
+    }
+}
+@media screen and (max-width:414px) {
+    .closebtn {
+        right: 10px;
+    }
+}
+@media screen and (max-width:375px){
+    .header-button{
+        display: none;
+    }
+
+    .closebtn {
+        right: 10px;
+    }
+
+    .testi-item p::after {
+        top: 335px;
+    }
+    .form .w-50{
+        width: 97%;
+    }
+    .ftr {
+        font-size: 16px;
+    }
+    .pricing-t {
+        padding: 0 25px;
+    }
+}
+
+@media screen and (max-width:360px){
+    .logo span {
+        font-size: 18px;
+    }
+}
